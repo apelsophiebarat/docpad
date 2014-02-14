@@ -9,11 +9,11 @@ build/
 components/
 bower_components/
 node_modules/
-out/
 
 
 # =====================================
 # PROJECT SPECIFIC FILES
 
+test/out/
 test/render-out/
 test/.docpad.db
